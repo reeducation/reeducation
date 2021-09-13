@@ -46,8 +46,7 @@ anesthésiste-réanimateur
 médecin réanimateur
 https://www.francesoir.fr/videos-lentretien-essentiel/si-nous-acceptons-ce-chantage-nous-accepterons-tout-laurent-montesino
 
-## Imunité Collective
-https://www.pasteur.fr/fr/espace-presse/documents-presse/qu-est-ce-que-immunite-collective
+
 
 
 # Com' idées reçues
