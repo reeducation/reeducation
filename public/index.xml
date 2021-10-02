@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on covid reeducation</title>
+    <link>https://reeducation.github.io/</link>
+    <description>Recent content in Introduction on covid reeducation</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://reeducation.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://reeducation.github.io/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://reeducation.github.io/readme/</guid>
+      <description>Covid Reeducation #  Ce repo a pour but de décortiquer l&amp;rsquo;information sur la covid 19.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -16,3 +16,7 @@ https://fr.statista.com/statistiques/1101324/morts-coronavirus-monde/
 
 Plus de données :
 https://www.data.gouv.fr/fr/pages/donnees-coronavirus/
+
+## Pandémie : la définition a changé?
+
+Le caractère "grave" de la maladie fait-il toujours partie de la définition du mot?

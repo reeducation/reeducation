@@ -9,6 +9,9 @@ Avons-nous du recul?
 ## Vaccination des enfants
 Si le vaccin n'empêche pas la transmission du covid, faut-il vacciner les personnes qui ne mourront pas du covid ?
 
+## Transmission du Covid
+Est-ce que je le transmets moins lorsque je suis vacciné ?
+
 ## Producteurs
 
 ### Valneva
